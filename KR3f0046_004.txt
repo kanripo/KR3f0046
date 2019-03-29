@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 同文算指
-#+DATE: 2019-03-29 21:10:31.411126
+#+DATE: 2019-03-29 21:10:31.560832
 #+PROPERTY: ID KR3f0046
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR3f0046_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -871,7 +871,7 @@
 通完三年之内甲成二分之一乙成三分之一丙成¶
 六分之一共足十分之數¶
 ¶
-　　問漏壺一座上有渇烏注水下有天池&KR0165;水今塞其下¶
+　　問漏壺一座上有渇烏注水下有天池洩水今塞其下¶
 <pb:KR3f0046_WYG_004-34a>¶
 竅注水于壺四時而水滿開其下竅洩水壺外六時而¶
 洩盡若使上注下洩相併則此壺須幾時可滿法以四¶
